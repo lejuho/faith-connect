@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597712425509",
+    "project_id": "faith-connect-81d69",
+    "storage_bucket": "faith-connect-81d69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597712425509:android:c0d2d57b5eac8fcad0a5cc",
+        "android_client_info": {
+          "package_name": "com.example.faith_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9MDcDusMya5vxV-Tkl5d0nESqIfizX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
